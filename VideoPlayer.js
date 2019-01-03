@@ -1308,14 +1308,14 @@ const styles = {
         },
         track: {
             backgroundColor: '#333',
-            height: 1,
+            height: 4,
             position: 'relative',
-            top: 14,
+            top: 12,
             width: '100%'
         },
         fill: {
             backgroundColor: '#FFF',
-            height: 1,
+            height: 4,
             width: '100%'
         },
         handle: {
@@ -1325,11 +1325,11 @@ const styles = {
             width: 28,
         },
         circle: {
-            borderRadius: 12,
+            borderRadius: 18,
             position: 'relative',
-            top: 8, left: 8,
-            height: 12,
-            width: 12,
+            top: 5, left: 5,
+            height: 18,
+            width: 18,
         },
     })
 };
